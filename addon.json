@@ -1,0 +1,6 @@
+{
+    "title": "Greyline Biolock",
+    "type": "addon",
+    "tags": [ "fun", "roleplay" ],
+    "ignore": [ "*.md", "*.txt" ]
+}
